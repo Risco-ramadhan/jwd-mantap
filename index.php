@@ -19,9 +19,9 @@
                         <h4>Login</h4>
                     </div>
                     <div class="card-body">
-                        <div class="text-center mb-3">
+                        <!-- <div class="text-center mb-3">
                             <img src="URL_LOGO_UAD" alt="Logo UAD" class="img-fluid rounded-circle" style="max-width: 150px;">
-                        </div>
+                        </div> -->
                         <form>
                             <div class="mb-3">
                                 <label for="username" class="form-label">Username</label>
