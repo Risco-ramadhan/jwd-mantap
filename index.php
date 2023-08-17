@@ -33,9 +33,7 @@
                             </div>
                             <button type="submit" class="btn btn-primary btn-block">Login</button>
                             <hr>
-                            <button class="btn btn-danger btn-block" onclick="loginWithGoogle()">Login with Google</button>
-                            <button class="btn btn-primary btn-block" onclick="loginWithFacebook()">Login with Facebook</button>
-                        </form>
+                           </form>
                     </div>
                 </div>
             </div>
