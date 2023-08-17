@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "id": 1,
+        "nama": "Rudi",
+        "alamat": "Nganjuk"
+    },
+    {
+        "id": 2,
+        "nama": "Dian",
+        "alamat": "Madiun"
+    },
+    {
+        "id": 877,
+        "nama": "",
+        "alamat": "123"
+    },
+    {
+        "id": 762,
+        "nama": "",
+        "alamat": ""
+    },
+    {
+        "id": 234,
+        "nama": "",
+        "alamat": ""
+    },
+    {
+        "id": 378,
+        "nama": "risco",
+        "alamat": "123"
+    },
+    {
+        "id": 987,
+        "nama": "risco",
+        "alamat": "1234"
+    },
+    {
+        "id": 830,
+        "nama": "risco",
+        "alamat": "1234"
+    }
+]
